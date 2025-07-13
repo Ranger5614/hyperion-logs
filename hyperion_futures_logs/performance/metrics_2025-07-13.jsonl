@@ -152,3 +152,10 @@
 {"timestamp": "2025-07-13T18:43:08.994864", "event": "SCAN_COMPLETE", "scan_number": 7, "duration_seconds": 8.83, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
 {"timestamp": "2025-07-13T18:43:52.556172", "event": "SCAN_COMPLETE", "scan_number": 8, "duration_seconds": 7.39, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
 {"timestamp": "2025-07-13T18:44:37.381779", "event": "SCAN_COMPLETE", "scan_number": 9, "duration_seconds": 7.21, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:45:22.525545", "event": "SCAN_COMPLETE", "scan_number": 10, "duration_seconds": 7.36, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:46:07.322039", "event": "SCAN_COMPLETE", "scan_number": 11, "duration_seconds": 7.15, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:46:52.657233", "event": "SCAN_COMPLETE", "scan_number": 12, "duration_seconds": 7.48, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:47:37.764733", "event": "SCAN_COMPLETE", "scan_number": 13, "duration_seconds": 7.59, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:48:22.671937", "event": "SCAN_COMPLETE", "scan_number": 14, "duration_seconds": 7.49, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:48:45.404915", "event": "ACCOUNT_SNAPSHOT", "balance_usd": 462.19526482, "total_positions": 1, "total_exposure": 10.09425, "total_unrealized_pnl": -0.0021499999999988082, "margin_ratio": 0.9998686932256446, "positions": {"ATOMUSDT": {"pnl": -0.0021499999999988082, "pnl_pct": -0.02129925452607978, "age_min": 0}}}
+{"timestamp": "2025-07-13T18:49:08.308887", "event": "SCAN_COMPLETE", "scan_number": 15, "duration_seconds": 8.13, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
