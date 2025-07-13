@@ -166,3 +166,11 @@
 {"timestamp": "2025-07-13T18:52:52.897353", "event": "SCAN_COMPLETE", "scan_number": 20, "duration_seconds": 7.71, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
 {"timestamp": "2025-07-13T18:53:38.628985", "event": "SCAN_COMPLETE", "scan_number": 21, "duration_seconds": 8.44, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
 {"timestamp": "2025-07-13T18:54:22.912473", "event": "SCAN_COMPLETE", "scan_number": 22, "duration_seconds": 7.72, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T18:55:08.934645", "event": "SCAN_COMPLETE", "scan_number": 23, "duration_seconds": 8.74, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T18:55:53.475798", "event": "SCAN_COMPLETE", "scan_number": 24, "duration_seconds": 8.28, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
+{"timestamp": "2025-07-13T18:56:38.419938", "event": "SCAN_COMPLETE", "scan_number": 25, "duration_seconds": 8.22, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
+{"timestamp": "2025-07-13T18:57:23.290977", "event": "SCAN_COMPLETE", "scan_number": 26, "duration_seconds": 8.09, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
+{"timestamp": "2025-07-13T18:58:08.436779", "event": "SCAN_COMPLETE", "scan_number": 27, "duration_seconds": 8.23, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
+{"timestamp": "2025-07-13T18:58:53.245345", "event": "SCAN_COMPLETE", "scan_number": 28, "duration_seconds": 8.04, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T18:58:53.474116", "event": "ACCOUNT_SNAPSHOT", "balance_usd": 462.19526482, "total_positions": 1, "total_exposure": 10.09425, "total_unrealized_pnl": -0.015049999999999297, "margin_ratio": 0.999868870177255, "positions": {"ATOMUSDT": {"pnl": -0.015049999999999297, "pnl_pct": -0.14909478168263415, "age_min": 0}}}
+{"timestamp": "2025-07-13T18:59:38.312778", "event": "SCAN_COMPLETE", "scan_number": 29, "duration_seconds": 8.11, "pairs_scanned": 11, "signals_found": 3, "efficiency": 27.27}
