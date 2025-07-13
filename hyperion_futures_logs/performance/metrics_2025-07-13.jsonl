@@ -110,3 +110,10 @@
 {"timestamp": "2025-07-13T18:07:51.771662", "event": "SCAN_COMPLETE", "scan_number": 10, "duration_seconds": 7.09, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
 {"timestamp": "2025-07-13T18:08:36.424558", "event": "SCAN_COMPLETE", "scan_number": 11, "duration_seconds": 6.74, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
 {"timestamp": "2025-07-13T18:09:21.376253", "event": "SCAN_COMPLETE", "scan_number": 12, "duration_seconds": 6.69, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:10:07.262328", "event": "SCAN_COMPLETE", "scan_number": 13, "duration_seconds": 7.58, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:10:51.471997", "event": "SCAN_COMPLETE", "scan_number": 14, "duration_seconds": 6.78, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:11:14.905869", "event": "ACCOUNT_SNAPSHOT", "balance_usd": 462.08885593, "total_positions": 1, "total_exposure": 10.064420000000002, "total_unrealized_pnl": -0.01925999999999883, "margin_ratio": 0.9998697667609777, "positions": {"ATOMUSDT": {"pnl": -0.01925999999999883, "pnl_pct": -0.19136721241759413, "age_min": 0}}}
+{"timestamp": "2025-07-13T18:11:36.324662", "event": "SCAN_COMPLETE", "scan_number": 15, "duration_seconds": 6.63, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:12:21.871706", "event": "SCAN_COMPLETE", "scan_number": 16, "duration_seconds": 7.18, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:13:06.716938", "event": "SCAN_COMPLETE", "scan_number": 17, "duration_seconds": 7.02, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:13:52.205307", "event": "SCAN_COMPLETE", "scan_number": 18, "duration_seconds": 7.51, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
