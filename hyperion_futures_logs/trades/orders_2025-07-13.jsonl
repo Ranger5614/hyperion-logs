@@ -1,0 +1,8 @@
+{"timestamp": "2025-07-13T17:02:24.329599", "event": "ORDER_ATTEMPT", "symbol": "DOGEUSDT", "side": "SELL", "quantity": 50.0, "price": 0.20037, "order_type": "MARKET", "notional": 10.0185, "leverage": 1}
+{"timestamp": "2025-07-13T17:02:24.771538", "event": "ORDER_RESULT", "symbol": "DOGEUSDT", "success": true, "latency_ms": 440.65, "order_id": 76424549959, "status": "NEW", "executed_qty": null, "executed_price": 0.20031, "fills": []}
+{"timestamp": "2025-07-13T17:03:08.440876", "event": "ORDER_ATTEMPT", "symbol": "SANDUSDT", "side": "SELL", "quantity": 33.0, "price": 0.30518, "order_type": "MARKET", "notional": 10.07094, "leverage": 1}
+{"timestamp": "2025-07-13T17:03:08.876450", "event": "ORDER_RESULT", "symbol": "SANDUSDT", "success": true, "latency_ms": 433.14, "order_id": 20977252812, "status": "NEW", "executed_qty": null, "executed_price": 0.30515, "fills": []}
+{"timestamp": "2025-07-13T17:06:08.299363", "event": "ORDER_ATTEMPT", "symbol": "NEARUSDT", "side": "SELL", "quantity": 3.0, "price": 2.548, "order_type": "MARKET", "notional": 7.644, "leverage": 1}
+{"timestamp": "2025-07-13T17:06:08.537736", "event": "ORDER_RESULT", "symbol": "NEARUSDT", "success": false, "latency_ms": 238.37, "order_id": null, "status": "FAILED", "executed_qty": 0, "executed_price": 0, "fills": []}
+{"timestamp": "2025-07-13T17:10:38.312376", "event": "ORDER_ATTEMPT", "symbol": "NEARUSDT", "side": "SELL", "quantity": 3.0, "price": 2.548, "order_type": "MARKET", "notional": 7.644, "leverage": 1}
+{"timestamp": "2025-07-13T17:10:38.531905", "event": "ORDER_RESULT", "symbol": "NEARUSDT", "success": false, "latency_ms": 219.53, "order_id": null, "status": "FAILED", "executed_qty": 0, "executed_price": 0, "fills": []}
