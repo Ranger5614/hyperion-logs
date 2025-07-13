@@ -2562,3 +2562,126 @@ Bot will resume scanning after cooldown period. | Mode: VOLUME | Market: FUTURES
 [2025-07-13 18:26:00] [INFO] 📊 Session report exported to: quantum_futures_data/session_report_20250713_182600.json
 [2025-07-13 18:26:01] [INFO] 🛑 Hyperion Quantum Strike Bot Offline. Mode was: QUALITY. Market: FUTURES. Per Aspera Ad Astra!
 [2025-07-13 18:26:01] [SUCCESS] 🌌 Quantum portal offline. Mode was: quality. Per Aspera Ad Astra! 🚀
+[2025-07-13 18:30:24] [INFO] 🚀 Initializing Hyperion Quantum Strike Bot...
+[2025-07-13 18:30:24] [INFO] 🌊 Running in QUALITY mode
+[2025-07-13 18:30:24] [INFO] 📈 Market type: FUTURES
+[2025-07-13 18:30:24] [INFO] 🔍 DEBUG MODE: ENABLED
+[2025-07-13 18:30:25] [INFO] 🔄 Reconciling quantum positions...
+[2025-07-13 18:30:25] [INFO] 💰 Account value: $462.01
+[2025-07-13 18:30:25] [WARNING] ⚠️ ATOMUSDT: Not found in exchange positions - removing
+[2025-07-13 18:30:25] [WARNING] ⚠️ DOGEUSDT: Not found in exchange positions - removing
+[2025-07-13 18:30:25] [INFO] ✅ Reconciliation complete: 0 active positions
+[2025-07-13 18:30:26] [SUCCESS] ✅ Connected to Binance Quantum Gateway
+[2025-07-13 18:30:31] [SUCCESS] ✅ Futures initialized - Leverage: 1x | Margin: CROSSED
+[2025-07-13 18:30:32] [INFO] 💰 Account value: $462.01
+[2025-07-13 18:30:32] [INFO] 🌌 Active strike pairs: FILUSDT, DOGEUSDT, POLUSDT, SANDUSDT, UNIUSDT, NEARUSDT, ATOMUSDT, ADAUSDT, AVAXUSDT, ALGOUSDT, LTCUSDT
+[2025-07-13 18:30:32] [INFO] ⚡ Max total positions: 4
+[2025-07-13 18:30:32] [INFO] 🎯 Risk limits: 3.0% daily, 3 consecutive
+[2025-07-13 18:30:32] [INFO] 🌊 QUANTUM MODE: QUALITY
+[2025-07-13 18:30:32] [INFO] 📊 Active pair parameters:
+[2025-07-13 18:30:32] [INFO]   FILUSDT: Z-Score=0.6, TP=2.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:30:32] [INFO]   DOGEUSDT: Z-Score=0.6, TP=2.5%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:30:32] [INFO]   POLUSDT: Z-Score=0.7, TP=3.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:30:32] [INFO]   SANDUSDT: Z-Score=0.6, TP=1.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:30:32] [INFO]   UNIUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:30:32] [INFO]   NEARUSDT: Z-Score=0.6, TP=2.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:30:32] [INFO]   ATOMUSDT: Z-Score=0.6, TP=2.0%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 18:30:32] [INFO]   ADAUSDT: Z-Score=0.6, TP=1.5%, SL=0.7%, Width=1.03, Body=0.150%
+[2025-07-13 18:30:32] [INFO]   AVAXUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:30:32] [INFO]   ALGOUSDT: Z-Score=0.8, TP=3.0%, SL=0.7%, Width=1.03, Body=0.080%
+[2025-07-13 18:30:32] [INFO]   LTCUSDT: Z-Score=0.7, TP=0.7%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 18:30:33] [SUCCESS] 🚀 HYPERION QUANTUM STRIKE BOT ONLINE - QUALITY MODE - FUTURES ACTIVE!
+[2025-07-13 18:30:33] [INFO] 🔍 Initiating quantum strike sequence...
+[2025-07-13 18:30:33] [INFO] 🔍 Quantum scan #1 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:30:34] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 1.15 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:30:37] [INFO] 🎯 Strike detected: UNIUSDT | Filter: ZSCORE | Z-Score: 1.17 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:30:37] [INFO] 🎯 Strike detected: NEARUSDT | Filter: ZSCORE | Z-Score: 1.24 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:30:39] [INFO] 🎯 Strike detected: ADAUSDT | Filter: ZSCORE | Z-Score: 0.96 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:30:41] [INFO] 🎯 Strike detected: LTCUSDT | Filter: ZSCORE | Z-Score: 1.45 (threshold: 0.7) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:30:41] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.6070 | Mode: QUALITY
+[2025-07-13 18:30:41] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 18:30:41] [TRADE] 🎯 Executing SHORT strike on UNIUSDT | Entry: $8.6500 | Mode: QUALITY
+[2025-07-13 18:30:42] [ERROR] ❌ Order failed for UNIUSDT
+[2025-07-13 18:30:42] [TRADE] 🎯 Executing SHORT strike on NEARUSDT | Entry: $2.5720 | Mode: QUALITY
+[2025-07-13 18:30:42] [ERROR] ❌ Order failed for NEARUSDT
+[2025-07-13 18:30:42] [TRADE] 🎯 Executing SHORT strike on ADAUSDT | Entry: $0.7460 | Mode: QUALITY
+[2025-07-13 18:30:42] [ERROR] ❌ Order failed for ADAUSDT
+[2025-07-13 18:30:43] [TRADE] 🎯 Executing SHORT strike on LTCUSDT | Entry: $96.2000 | Mode: QUALITY
+[2025-07-13 18:30:43] [ERROR] ❌ Order failed for LTCUSDT
+[2025-07-13 18:30:43] [ERROR] Quantum heartbeat transmission failed: Invalid format specifier '.1f if zscore_threshold else 0:.1f' for object of type 'float'
+[2025-07-13 18:30:43] [INFO] ⏰ Strike scan interval: 30 seconds
+[2025-07-13 18:31:13] [INFO] 🔍 Quantum scan #2 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:31:14] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 1.06 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:31:16] [INFO] 🎯 Strike detected: UNIUSDT | Filter: ZSCORE | Z-Score: 1.10 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:31:17] [INFO] 🎯 Strike detected: NEARUSDT | Filter: ZSCORE | Z-Score: 1.09 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:31:18] [INFO] 🎯 Strike detected: ADAUSDT | Filter: ZSCORE | Z-Score: 0.81 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:31:20] [INFO] 🎯 Strike detected: LTCUSDT | Filter: ZSCORE | Z-Score: 1.29 (threshold: 0.7) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:31:20] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.6050 | Mode: QUALITY
+[2025-07-13 18:31:21] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 18:31:21] [TRADE] 🎯 Executing SHORT strike on UNIUSDT | Entry: $8.6430 | Mode: QUALITY
+[2025-07-13 18:31:21] [ERROR] ❌ Order failed for UNIUSDT
+[2025-07-13 18:31:21] [TRADE] 🎯 Executing SHORT strike on NEARUSDT | Entry: $2.5680 | Mode: QUALITY
+[2025-07-13 18:31:22] [ERROR] ❌ Order failed for NEARUSDT
+[2025-07-13 18:31:22] [TRADE] 🎯 Executing SHORT strike on ADAUSDT | Entry: $0.7447 | Mode: QUALITY
+[2025-07-13 18:31:22] [ERROR] ❌ Order failed for ADAUSDT
+[2025-07-13 18:31:22] [TRADE] 🎯 Executing SHORT strike on LTCUSDT | Entry: $96.0800 | Mode: QUALITY
+[2025-07-13 18:31:22] [ERROR] ❌ Order failed for LTCUSDT
+[2025-07-13 18:31:58] [INFO] 🔍 Quantum scan #3 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:31:59] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 0.77 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:01] [INFO] 🎯 Strike detected: UNIUSDT | Filter: ZSCORE | Z-Score: 0.96 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:02] [INFO] 🎯 Strike detected: NEARUSDT | Filter: ZSCORE | Z-Score: 1.00 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:03] [INFO] 🎯 Strike detected: ADAUSDT | Filter: ZSCORE | Z-Score: 0.77 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:04] [INFO] 🎯 Strike detected: AVAXUSDT | Filter: ZSCORE | Z-Score: 0.81 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:05] [INFO] 🎯 Strike detected: LTCUSDT | Filter: ZSCORE | Z-Score: 1.05 (threshold: 0.7) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:05] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.5990 | Mode: QUALITY
+[2025-07-13 18:32:06] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 18:32:06] [TRADE] 🎯 Executing SHORT strike on UNIUSDT | Entry: $8.6290 | Mode: QUALITY
+[2025-07-13 18:32:06] [ERROR] ❌ Order failed for UNIUSDT
+[2025-07-13 18:32:06] [TRADE] 🎯 Executing SHORT strike on NEARUSDT | Entry: $2.5660 | Mode: QUALITY
+[2025-07-13 18:32:07] [ERROR] ❌ Order failed for NEARUSDT
+[2025-07-13 18:32:07] [TRADE] 🎯 Executing SHORT strike on ADAUSDT | Entry: $0.7443 | Mode: QUALITY
+[2025-07-13 18:32:07] [ERROR] ❌ Order failed for ADAUSDT
+[2025-07-13 18:32:07] [TRADE] 🎯 Executing SHORT strike on AVAXUSDT | Entry: $21.3900 | Mode: QUALITY
+[2025-07-13 18:32:07] [ERROR] Invalid quantity calculated for AVAXUSDT
+[2025-07-13 18:32:07] [TRADE] 🎯 Executing SHORT strike on LTCUSDT | Entry: $95.9100 | Mode: QUALITY
+[2025-07-13 18:32:08] [ERROR] ❌ Order failed for LTCUSDT
+[2025-07-13 18:32:43] [INFO] 🔍 Quantum scan #4 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:32:44] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 0.77 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:46] [INFO] 🎯 Strike detected: UNIUSDT | Filter: ZSCORE | Z-Score: 0.90 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:47] [INFO] 🎯 Strike detected: NEARUSDT | Filter: ZSCORE | Z-Score: 0.96 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:48] [INFO] 🎯 Strike detected: ADAUSDT | Filter: ZSCORE | Z-Score: 0.61 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:49] [INFO] 🎯 Strike detected: AVAXUSDT | Filter: ZSCORE | Z-Score: 0.75 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:50] [INFO] 🎯 Strike detected: LTCUSDT | Filter: ZSCORE | Z-Score: 0.94 (threshold: 0.7) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:32:50] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.5990 | Mode: QUALITY
+[2025-07-13 18:32:51] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 18:32:51] [TRADE] 🎯 Executing SHORT strike on UNIUSDT | Entry: $8.6230 | Mode: QUALITY
+[2025-07-13 18:32:51] [ERROR] ❌ Order failed for UNIUSDT
+[2025-07-13 18:32:51] [TRADE] 🎯 Executing SHORT strike on NEARUSDT | Entry: $2.5650 | Mode: QUALITY
+[2025-07-13 18:32:52] [ERROR] ❌ Order failed for NEARUSDT
+[2025-07-13 18:32:52] [TRADE] 🎯 Executing SHORT strike on ADAUSDT | Entry: $0.7430 | Mode: QUALITY
+[2025-07-13 18:32:52] [ERROR] ❌ Order failed for ADAUSDT
+[2025-07-13 18:32:52] [TRADE] 🎯 Executing SHORT strike on AVAXUSDT | Entry: $21.3820 | Mode: QUALITY
+[2025-07-13 18:32:52] [ERROR] Invalid quantity calculated for AVAXUSDT
+[2025-07-13 18:32:52] [TRADE] 🎯 Executing SHORT strike on LTCUSDT | Entry: $95.8300 | Mode: QUALITY
+[2025-07-13 18:32:53] [ERROR] ❌ Order failed for LTCUSDT
+[2025-07-13 18:33:28] [INFO] 🔍 Quantum scan #5 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:33:29] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 0.68 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:33:31] [INFO] 🎯 Strike detected: UNIUSDT | Filter: ZSCORE | Z-Score: 0.83 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:33:32] [INFO] 🎯 Strike detected: NEARUSDT | Filter: ZSCORE | Z-Score: 0.80 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:33:34] [INFO] 🎯 Strike detected: AVAXUSDT | Filter: ZSCORE | Z-Score: 0.64 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:33:35] [INFO] 🎯 Strike detected: LTCUSDT | Filter: ZSCORE | Z-Score: 0.88 (threshold: 0.7) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:33:35] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.5970 | Mode: QUALITY
+[2025-07-13 18:33:36] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 18:33:36] [TRADE] 🎯 Executing SHORT strike on UNIUSDT | Entry: $8.6160 | Mode: QUALITY
+[2025-07-13 18:33:36] [ERROR] ❌ Order failed for UNIUSDT
+[2025-07-13 18:33:36] [TRADE] 🎯 Executing SHORT strike on NEARUSDT | Entry: $2.5610 | Mode: QUALITY
+[2025-07-13 18:33:37] [ERROR] ❌ Order failed for NEARUSDT
+[2025-07-13 18:33:37] [TRADE] 🎯 Executing SHORT strike on AVAXUSDT | Entry: $21.3680 | Mode: QUALITY
+[2025-07-13 18:33:37] [ERROR] Invalid quantity calculated for AVAXUSDT
+[2025-07-13 18:33:37] [TRADE] 🎯 Executing SHORT strike on LTCUSDT | Entry: $95.7900 | Mode: QUALITY
+[2025-07-13 18:33:37] [ERROR] ❌ Order failed for LTCUSDT
+[2025-07-13 18:33:47] [INFO] 🛑 Shutdown signal received - Closing quantum portal
+[2025-07-13 18:33:47] [INFO] 🛑 Initiating quantum strike shutdown sequence... Mode: quality
+[2025-07-13 18:33:47] [INFO] 📊 Session report exported to: quantum_futures_data/session_report_20250713_183347.json
+[2025-07-13 18:33:47] [INFO] 🛑 Hyperion Quantum Strike Bot Offline. Mode was: QUALITY. Market: FUTURES. Per Aspera Ad Astra!
+[2025-07-13 18:33:47] [SUCCESS] 🌌 Quantum portal offline. Mode was: quality. Per Aspera Ad Astra! 🚀
