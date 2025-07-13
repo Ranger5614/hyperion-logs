@@ -65,3 +65,9 @@
 {"timestamp": "2025-07-13T17:32:36.370083", "event": "SCAN_COMPLETE", "scan_number": 5, "duration_seconds": 7.22, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
 {"timestamp": "2025-07-13T17:33:21.380515", "event": "SCAN_COMPLETE", "scan_number": 6, "duration_seconds": 7.22, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
 {"timestamp": "2025-07-13T17:34:06.638017", "event": "SCAN_COMPLETE", "scan_number": 7, "duration_seconds": 7.48, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:34:51.317977", "event": "SCAN_COMPLETE", "scan_number": 8, "duration_seconds": 7.16, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:35:37.189916", "event": "SCAN_COMPLETE", "scan_number": 9, "duration_seconds": 8.03, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:36:21.498071", "event": "SCAN_COMPLETE", "scan_number": 10, "duration_seconds": 7.34, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:37:06.311275", "event": "SCAN_COMPLETE", "scan_number": 11, "duration_seconds": 7.15, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:37:51.355035", "event": "SCAN_COMPLETE", "scan_number": 12, "duration_seconds": 7.19, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:38:36.413353", "event": "SCAN_COMPLETE", "scan_number": 13, "duration_seconds": 7.25, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
