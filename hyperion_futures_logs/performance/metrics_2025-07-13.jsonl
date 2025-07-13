@@ -97,3 +97,9 @@
 {"timestamp": "2025-07-13T17:55:06.311441", "event": "SCAN_COMPLETE", "scan_number": 35, "duration_seconds": 7.1, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
 {"timestamp": "2025-07-13T17:55:51.066014", "event": "SCAN_COMPLETE", "scan_number": 36, "duration_seconds": 6.85, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
 {"timestamp": "2025-07-13T17:56:33.663552", "event": "DAILY_SUMMARY", "date": "2025-07-13", "total_trades": 5, "winning_trades": 0, "losing_trades": 1, "win_rate": 60.0, "pnl_usd": 0.36585999999999924, "volume_usd": 50.21705, "best_trade": -0.15949999999999992, "worst_trade": -0.15949999999999992, "mode_breakdown": {"volume": 3, "quality": 2}}
+{"timestamp": "2025-07-13T18:01:12.914065", "event": "SCAN_COMPLETE", "scan_number": 1, "duration_seconds": 8.61, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T18:01:12.914065", "event": "ACCOUNT_SNAPSHOT", "balance_usd": 462.08885593, "total_positions": 1, "total_exposure": 10.064420000000002, "total_unrealized_pnl": 0.06634000000000125, "margin_ratio": 0, "positions": {"ATOMUSDT": {"pnl": 0.06634000000000125, "pnl_pct": 0.6591537316606545, "age_min": 0}}}
+{"timestamp": "2025-07-13T18:01:51.900799", "event": "SCAN_COMPLETE", "scan_number": 2, "duration_seconds": 7.24, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:02:36.851171", "event": "SCAN_COMPLETE", "scan_number": 3, "duration_seconds": 7.18, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:03:21.747466", "event": "SCAN_COMPLETE", "scan_number": 4, "duration_seconds": 7.08, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T18:04:07.091288", "event": "SCAN_COMPLETE", "scan_number": 5, "duration_seconds": 7.42, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
