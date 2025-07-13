@@ -86,3 +86,11 @@
 {"timestamp": "2025-07-13T17:47:35.736803", "event": "SCAN_COMPLETE", "scan_number": 25, "duration_seconds": 6.55, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
 {"timestamp": "2025-07-13T17:48:21.157124", "event": "SCAN_COMPLETE", "scan_number": 26, "duration_seconds": 6.97, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
 {"timestamp": "2025-07-13T17:49:06.165152", "event": "SCAN_COMPLETE", "scan_number": 27, "duration_seconds": 6.97, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:49:51.749759", "event": "SCAN_COMPLETE", "scan_number": 28, "duration_seconds": 7.55, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:49:52.181962", "event": "ACCOUNT_SNAPSHOT", "balance_usd": 462.13541074, "total_positions": 2, "total_exposure": 20.09503, "total_unrealized_pnl": -0.008779999999998102, "margin_ratio": 0.9995663280014571, "positions": {"POLUSDT": {"pnl": -0.047299999999999565, "pnl_pct": -0.23577828267672438, "age_min": 0}, "ATOMUSDT": {"pnl": 0.03852000000000146, "pnl_pct": 0.3827344248352261, "age_min": 0}}}
+{"timestamp": "2025-07-13T17:50:36.184426", "event": "SCAN_COMPLETE", "scan_number": 29, "duration_seconds": 6.99, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:51:20.713293", "event": "SCAN_COMPLETE", "scan_number": 30, "duration_seconds": 6.51, "pairs_scanned": 11, "signals_found": 1, "efficiency": 9.09}
+{"timestamp": "2025-07-13T17:52:06.173106", "event": "SCAN_COMPLETE", "scan_number": 31, "duration_seconds": 6.97, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:52:51.095283", "event": "SCAN_COMPLETE", "scan_number": 32, "duration_seconds": 6.89, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:53:36.106682", "event": "SCAN_COMPLETE", "scan_number": 33, "duration_seconds": 6.9, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T17:54:21.226450", "event": "SCAN_COMPLETE", "scan_number": 34, "duration_seconds": 7.02, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
