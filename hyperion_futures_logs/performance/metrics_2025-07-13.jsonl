@@ -132,3 +132,6 @@
 {"timestamp": "2025-07-13T18:22:51.378898", "event": "SCAN_COMPLETE", "scan_number": 30, "duration_seconds": 6.66, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
 {"timestamp": "2025-07-13T18:23:36.784148", "event": "SCAN_COMPLETE", "scan_number": 31, "duration_seconds": 7.06, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
 {"timestamp": "2025-07-13T18:24:21.505664", "event": "SCAN_COMPLETE", "scan_number": 32, "duration_seconds": 6.78, "pairs_scanned": 11, "signals_found": 0, "efficiency": 0.0}
+{"timestamp": "2025-07-13T18:25:07.459661", "event": "SCAN_COMPLETE", "scan_number": 33, "duration_seconds": 7.73, "pairs_scanned": 11, "signals_found": 2, "efficiency": 18.18}
+{"timestamp": "2025-07-13T18:25:54.338936", "event": "SCAN_COMPLETE", "scan_number": 34, "duration_seconds": 9.61, "pairs_scanned": 11, "signals_found": 4, "efficiency": 36.36}
+{"timestamp": "2025-07-13T18:26:00.659654", "event": "DAILY_SUMMARY", "date": "2025-07-13", "total_trades": 5, "winning_trades": 0, "losing_trades": 0, "win_rate": 60.0, "pnl_usd": 0.36585999999999924, "volume_usd": 50.21705, "best_trade": 0, "worst_trade": 0, "mode_breakdown": {"volume": 3, "quality": 2}}
