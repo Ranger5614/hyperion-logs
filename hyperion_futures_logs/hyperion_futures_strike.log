@@ -2272,3 +2272,37 @@ Bot will resume scanning after cooldown period. | Mode: VOLUME | Market: FUTURES
 [2025-07-13 17:54:21] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
 [2025-07-13 17:54:21] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2321 | P&L: $-0.10 (-0.51% @1x) | Time: 3.5h | Mode: volume | FUTURES
 [2025-07-13 17:54:21] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6710 | P&L: $0.07 (+0.68% @1x) | Time: 0.1h | Mode: quality | FUTURES
+[2025-07-13 17:54:44] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:54:44] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2324 | P&L: $-0.08 (-0.38% @1x) | Time: 3.5h | Mode: volume | FUTURES
+[2025-07-13 17:54:44] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6760 | P&L: $0.06 (+0.57% @1x) | Time: 0.1h | Mode: quality | FUTURES
+[2025-07-13 17:54:59] [INFO] 🔍 Quantum scan #35 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:54:59] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 1.03 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:55:03] [INFO] 🎯 Strike detected: ADAUSDT | Filter: ZSCORE | Z-Score: 1.06 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:55:05] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.5940 | Mode: QUALITY
+[2025-07-13 17:55:05] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 17:55:06] [TRADE] 🎯 Executing SHORT strike on ADAUSDT | Entry: $0.7435 | Mode: QUALITY
+[2025-07-13 17:55:06] [ERROR] ❌ Order failed for ADAUSDT
+[2025-07-13 17:55:06] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:55:06] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2324 | P&L: $-0.07 (-0.37% @1x) | Time: 3.5h | Mode: volume | FUTURES
+[2025-07-13 17:55:06] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6740 | P&L: $0.06 (+0.62% @1x) | Time: 0.1h | Mode: quality | FUTURES
+[2025-07-13 17:55:29] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:55:29] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2323 | P&L: $-0.09 (-0.43% @1x) | Time: 3.6h | Mode: volume | FUTURES
+[2025-07-13 17:55:29] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6700 | P&L: $0.07 (+0.70% @1x) | Time: 0.2h | Mode: quality | FUTURES
+[2025-07-13 17:55:44] [INFO] 🔍 Quantum scan #36 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:55:44] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 0.87 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:55:50] [TRADE] 🎯 Executing SHORT strike on FILUSDT | Entry: $2.5910 | Mode: QUALITY
+[2025-07-13 17:55:51] [ERROR] ❌ Order failed for FILUSDT
+[2025-07-13 17:55:51] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:55:51] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2324 | P&L: $-0.08 (-0.39% @1x) | Time: 3.6h | Mode: volume | FUTURES
+[2025-07-13 17:55:51] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6700 | P&L: $0.07 (+0.70% @1x) | Time: 0.2h | Mode: quality | FUTURES
+[2025-07-13 17:55:51] [INFO] 💰 Margin Status - Balance: $462.13 | Maint Margin: $0.26 | Unrealized PNL: $-0.00 | Margin Ratio: 99.9%
+[2025-07-13 17:56:14] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:56:14] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2323 | P&L: $-0.08 (-0.41% @1x) | Time: 3.6h | Mode: volume | FUTURES
+[2025-07-13 17:56:14] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.7030 | Current: $4.6720 | P&L: $0.07 (+0.66% @1x) | Time: 0.2h | Mode: quality | FUTURES
+[2025-07-13 17:56:29] [INFO] 🔍 Quantum scan #37 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:56:29] [INFO] 🎯 Strike detected: FILUSDT | Filter: ZSCORE | Z-Score: 0.98 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:56:33] [INFO] 🛑 Shutdown signal received - Closing quantum portal
+[2025-07-13 17:56:33] [INFO] 🛑 Initiating quantum strike shutdown sequence... Mode: quality
+[2025-07-13 17:56:33] [INFO] 📊 Session report exported to: quantum_futures_data/session_report_20250713_175633.json
+[2025-07-13 17:56:34] [INFO] 🛑 Hyperion Quantum Strike Bot Offline. Mode was: QUALITY. Market: FUTURES. Per Aspera Ad Astra!
+[2025-07-13 17:56:34] [SUCCESS] 🌌 Quantum portal offline. Mode was: quality. Per Aspera Ad Astra! 🚀
