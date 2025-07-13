@@ -2685,3 +2685,70 @@ Bot will resume scanning after cooldown period. | Mode: VOLUME | Market: FUTURES
 [2025-07-13 18:33:47] [INFO] 📊 Session report exported to: quantum_futures_data/session_report_20250713_183347.json
 [2025-07-13 18:33:47] [INFO] 🛑 Hyperion Quantum Strike Bot Offline. Mode was: QUALITY. Market: FUTURES. Per Aspera Ad Astra!
 [2025-07-13 18:33:47] [SUCCESS] 🌌 Quantum portal offline. Mode was: quality. Per Aspera Ad Astra! 🚀
+[2025-07-13 18:38:26] [INFO] 🚀 Initializing Hyperion Quantum Strike Bot...
+[2025-07-13 18:38:26] [INFO] 🌊 Running in QUALITY mode
+[2025-07-13 18:38:26] [INFO] 📈 Market type: FUTURES
+[2025-07-13 18:38:26] [INFO] 🔍 DEBUG MODE: ENABLED
+[2025-07-13 18:38:26] [INFO] 🔄 Reconciling quantum positions...
+[2025-07-13 18:38:26] [INFO] 💰 Account value: $462.01
+[2025-07-13 18:38:27] [INFO] ✅ Reconciliation complete: 0 active positions
+[2025-07-13 18:38:27] [SUCCESS] ✅ Connected to Binance Quantum Gateway
+[2025-07-13 18:38:33] [SUCCESS] ✅ Futures initialized - Leverage: 1x | Margin: CROSSED
+[2025-07-13 18:38:33] [INFO] 💰 Account value: $462.01
+[2025-07-13 18:38:33] [INFO] 🌌 Active strike pairs: FILUSDT, DOGEUSDT, POLUSDT, SANDUSDT, UNIUSDT, NEARUSDT, ATOMUSDT, ADAUSDT, AVAXUSDT, ALGOUSDT, LTCUSDT
+[2025-07-13 18:38:33] [INFO] ⚡ Max total positions: 4
+[2025-07-13 18:38:33] [INFO] 🎯 Risk limits: 3.0% daily, 3 consecutive
+[2025-07-13 18:38:33] [INFO] 🌊 QUANTUM MODE: QUALITY
+[2025-07-13 18:38:33] [INFO] 📊 Active pair parameters:
+[2025-07-13 18:38:33] [INFO]   FILUSDT: Z-Score=0.6, TP=2.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:38:33] [INFO]   DOGEUSDT: Z-Score=0.6, TP=2.5%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:38:33] [INFO]   POLUSDT: Z-Score=0.7, TP=3.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:38:33] [INFO]   SANDUSDT: Z-Score=0.6, TP=1.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:38:33] [INFO]   UNIUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:38:33] [INFO]   NEARUSDT: Z-Score=0.6, TP=2.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 18:38:33] [INFO]   ATOMUSDT: Z-Score=0.6, TP=2.0%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 18:38:33] [INFO]   ADAUSDT: Z-Score=0.6, TP=1.5%, SL=0.7%, Width=1.03, Body=0.150%
+[2025-07-13 18:38:33] [INFO]   AVAXUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 18:38:33] [INFO]   ALGOUSDT: Z-Score=0.8, TP=3.0%, SL=0.7%, Width=1.03, Body=0.080%
+[2025-07-13 18:38:33] [INFO]   LTCUSDT: Z-Score=0.7, TP=0.7%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 18:38:34] [SUCCESS] 🚀 HYPERION QUANTUM STRIKE BOT ONLINE - QUALITY MODE - FUTURES ACTIVE!
+[2025-07-13 18:38:34] [INFO] 🔍 Initiating quantum strike sequence...
+[2025-07-13 18:38:34] [INFO] 🔍 Quantum scan #1 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:38:37] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 2.69 (threshold: 0.6) | Mode: QUALITY | Action: LONG
+[2025-07-13 18:38:39] [INFO] 🎯 Strike detected: ATOMUSDT | Filter: ZSCORE | Z-Score: 0.65 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:38:41] [INFO] 🎯 Strike detected: ALGOUSDT | Filter: ZSCORE | Z-Score: 0.92 (threshold: 0.8) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:38:42] [TRADE] 🎯 Executing LONG strike on SANDUSDT | Entry: $0.3374 | Mode: QUALITY
+[2025-07-13 18:38:42] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 18:38:43] [TRADE] 🎯 Executing SHORT strike on ATOMUSDT | Entry: $4.6920 | Mode: QUALITY
+[2025-07-13 18:38:43] [INFO] 🔍 DEBUG: send_strike_entry_alert called
+[2025-07-13 18:38:43] [INFO] 🔍 DEBUG: Creating embed for ATOMUSDT SHORT entry
+[2025-07-13 18:38:43] [INFO] 🔍 DEBUG: TP%: 2.0, SL%: 1.0, Risk:Reward: 2.00
+[2025-07-13 18:38:43] [INFO] 🔍 DEBUG: Sending Discord embed for ATOMUSDT entry
+[2025-07-13 18:38:44] [INFO] 🔍 DEBUG: Discord embed sent successfully for ATOMUSDT
+[2025-07-13 18:38:44] [TRADE] ENTRY: SHORT ATOMUSDT @ $4.6950 [FUTURES @1x] | Z-Score: 0.65 (>0.6) | Mode: QUALITY | TP: +2.0% | SL: -1.0%
+[2025-07-13 18:38:44] [INFO] 💰 Account value: $462.01
+[2025-07-13 18:38:44] [TRADE] 🎯 Executing SHORT strike on ALGOUSDT | Entry: $0.2564 | Mode: QUALITY
+[2025-07-13 18:38:45] [ERROR] ❌ Order failed for ALGOUSDT
+[2025-07-13 18:38:45] [ERROR] Quantum heartbeat transmission failed: Invalid format specifier '.1f if zscore_threshold else 0:.1f' for object of type 'float'
+[2025-07-13 18:38:45] [INFO] ⏰ Strike scan interval: 30 seconds
+[2025-07-13 18:39:00] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 18:39:00] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.6950 | Current: $4.6900 | P&L: $0.01 (+0.11% @1x) | Time: 0.0h | Mode: quality | FUTURES
+[2025-07-13 18:39:15] [INFO] 🔍 Quantum scan #2 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 18:39:17] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 2.53 (threshold: 0.6) | Mode: QUALITY | Action: LONG
+[2025-07-13 18:39:20] [INFO] 🎯 Strike detected: AVAXUSDT | Filter: ZSCORE | Z-Score: -0.61 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:39:21] [INFO] 🎯 Strike detected: ALGOUSDT | Filter: ZSCORE | Z-Score: 0.85 (threshold: 0.8) | Mode: QUALITY | Action: SHORT
+[2025-07-13 18:39:22] [TRADE] 🎯 Executing LONG strike on SANDUSDT | Entry: $0.3344 | Mode: QUALITY
+[2025-07-13 18:39:22] [INFO] 🔍 DEBUG: send_strike_entry_alert called
+[2025-07-13 18:39:22] [INFO] 🔍 DEBUG: Creating embed for SANDUSDT LONG entry
+[2025-07-13 18:39:22] [INFO] 🔍 DEBUG: TP%: 1.5, SL%: 1.5, Risk:Reward: 1.00
+[2025-07-13 18:39:22] [INFO] 🔍 DEBUG: Sending Discord embed for SANDUSDT entry
+[2025-07-13 18:39:23] [INFO] 🔍 DEBUG: Discord embed sent successfully for SANDUSDT
+[2025-07-13 18:39:23] [TRADE] ENTRY: LONG SANDUSDT @ $0.3341 [FUTURES @1x] | Z-Score: 2.53 (>0.6) | Mode: QUALITY | TP: +1.5% | SL: -1.5%
+[2025-07-13 18:39:23] [INFO] 💰 Account value: $462.00
+[2025-07-13 18:39:23] [TRADE] 🎯 Executing SHORT strike on AVAXUSDT | Entry: $21.2150 | Mode: QUALITY
+[2025-07-13 18:39:23] [ERROR] Invalid quantity calculated for AVAXUSDT
+[2025-07-13 18:39:23] [TRADE] 🎯 Executing SHORT strike on ALGOUSDT | Entry: $0.2557 | Mode: QUALITY
+[2025-07-13 18:39:24] [ERROR] ❌ Order failed for ALGOUSDT
+[2025-07-13 18:39:24] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 18:39:24] [INFO] 📊 ATOMUSDT | SHORT | Entry: $4.6950 | Current: $4.6870 | P&L: $0.02 (+0.17% @1x) | Time: 0.0h | Mode: quality | FUTURES
+[2025-07-13 18:39:24] [INFO] 📊 SANDUSDT | LONG | Entry: $0.3341 | Current: $0.3341 | P&L: $-0.00 (-0.00% @1x) | Time: 0.0h | Mode: quality | FUTURES
