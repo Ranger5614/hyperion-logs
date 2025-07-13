@@ -1911,4 +1911,89 @@ Bot will resume scanning after cooldown period. | Mode: VOLUME | Market: FUTURES
 [2025-07-13 17:15:08] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
 [2025-07-13 17:15:08] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2334 | P&L: $0.01 (+0.06% @1x) | Time: 2.9h | Mode: volume | FUTURES
 [2025-07-13 17:15:09] [INFO] 📊 DOGEUSDT | SHORT | Entry: $0.2003 | Current: $0.2010 | P&L: $-0.04 (-0.35% @1x) | Time: 0.2h | Mode: quality | FUTURES
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      [2025-07-13 17:29:28] [INFO] 🚀 Initializing Hyperion Quantum Strike Bot...
+[2025-07-13 17:29:28] [INFO] 🌊 Running in QUALITY mode
+[2025-07-13 17:29:28] [INFO] 📈 Market type: FUTURES
+[2025-07-13 17:29:28] [INFO] 🔍 DEBUG MODE: ENABLED
+[2025-07-13 17:29:29] [INFO] 🔄 Reconciling quantum positions...
+[2025-07-13 17:29:29] [INFO] 💰 Account value: $462.31
+[2025-07-13 17:29:29] [INFO] ✅ Reconciliation complete: 2 active positions
+[2025-07-13 17:29:29] [SUCCESS] ✅ Connected to Binance Quantum Gateway
+[2025-07-13 17:29:37] [SUCCESS] ✅ Futures initialized - Leverage: 1x | Margin: CROSSED
+[2025-07-13 17:29:37] [INFO] 💰 Account value: $462.31
+[2025-07-13 17:29:37] [INFO] 🌌 Active strike pairs: FILUSDT, DOGEUSDT, POLUSDT, SANDUSDT, UNIUSDT, NEARUSDT, ATOMUSDT, ADAUSDT, AVAXUSDT, ALGOUSDT, LTCUSDT
+[2025-07-13 17:29:37] [INFO] ⚡ Max total positions: 4
+[2025-07-13 17:29:37] [INFO] 🎯 Risk limits: 3.0% daily, 3 consecutive
+[2025-07-13 17:29:37] [INFO] 🌊 QUANTUM MODE: QUALITY
+[2025-07-13 17:29:37] [INFO] 📊 Active pair parameters:
+[2025-07-13 17:29:37] [INFO]   FILUSDT: Z-Score=0.6, TP=2.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 17:29:37] [INFO]   DOGEUSDT: Z-Score=0.6, TP=2.5%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 17:29:37] [INFO]   POLUSDT: Z-Score=0.7, TP=3.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 17:29:37] [INFO]   SANDUSDT: Z-Score=0.6, TP=1.5%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 17:29:37] [INFO]   UNIUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 17:29:37] [INFO]   NEARUSDT: Z-Score=0.6, TP=2.0%, SL=1.5%, Width=1.03, Body=0.120%
+[2025-07-13 17:29:37] [INFO]   ATOMUSDT: Z-Score=0.6, TP=2.0%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 17:29:37] [INFO]   ADAUSDT: Z-Score=0.6, TP=1.5%, SL=0.7%, Width=1.03, Body=0.150%
+[2025-07-13 17:29:37] [INFO]   AVAXUSDT: Z-Score=0.6, TP=0.7%, SL=2.0%, Width=1.03, Body=0.150%
+[2025-07-13 17:29:37] [INFO]   ALGOUSDT: Z-Score=0.8, TP=3.0%, SL=0.7%, Width=1.03, Body=0.080%
+[2025-07-13 17:29:37] [INFO]   LTCUSDT: Z-Score=0.7, TP=0.7%, SL=1.0%, Width=1.03, Body=0.080%
+[2025-07-13 17:29:38] [SUCCESS] 🚀 HYPERION QUANTUM STRIKE BOT ONLINE - QUALITY MODE - FUTURES ACTIVE!
+[2025-07-13 17:29:38] [INFO] 🔍 Initiating quantum strike sequence...
+[2025-07-13 17:29:38] [INFO] 🔍 Quantum scan #1 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:29:44] [ERROR] Quantum heartbeat transmission failed: Invalid format specifier '.1f if zscore_threshold else 0:.1f' for object of type 'float'
+[2025-07-13 17:29:44] [INFO] ⏰ Strike scan interval: 30 seconds
+[2025-07-13 17:29:59] [INFO] ⚡ Monitoring 2 quantum positions in QUALITY mode...
+[2025-07-13 17:29:59] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2337 | P&L: $0.04 (+0.18% @1x) | Time: 3.1h | Mode: volume | FUTURES
+[2025-07-13 17:29:59] [INFO] 📊 DOGEUSDT | SHORT | Entry: $0.2003 | Current: $0.2035 | P&L: $-0.16 (-1.59% @1x) | Time: 0.5h | Mode: quality | FUTURES
+[2025-07-13 17:30:00] [INFO] 🔍 Balance check - DOGE: Actual=0.00000000, Stored=50.00000000
+[2025-07-13 17:30:00] [TRADE] 🚪 Closing DOGEUSDT | Final quantity: 50.0 | Reason: Stop loss hit at $0.2035
+[2025-07-13 17:30:00] [SUCCESS] ✅ Exit order successful on attempt 1
+[2025-07-13 17:30:00] [INFO] 💰 Futures P&L: $-0.16 (-1.59% × 1 = -1.59%)
+[2025-07-13 17:30:01] [TRADE] EXIT: DOGEUSDT SHORT [FUTURES] | P&L: $-0.16 (-1.59%) | Stop loss hit at $0.2035 | Filter: ZSCORE | Mode: QUALITY
+[2025-07-13 17:30:01] [INFO] 💰 Account value: $462.14
+[2025-07-13 17:30:14] [INFO] 🔍 Quantum scan #2 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:30:16] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.74 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:30:21] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3099 | Mode: QUALITY
+[2025-07-13 17:30:21] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:30:21] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:30:21] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2337 | P&L: $0.04 (+0.19% @1x) | Time: 3.1h | Mode: volume | FUTURES
+[2025-07-13 17:30:44] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:30:44] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2335 | P&L: $0.02 (+0.10% @1x) | Time: 3.1h | Mode: volume | FUTURES
+[2025-07-13 17:30:59] [INFO] 🔍 Quantum scan #3 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:31:01] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.67 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:31:06] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3094 | Mode: QUALITY
+[2025-07-13 17:31:06] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:31:06] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:31:06] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2336 | P&L: $0.02 (+0.12% @1x) | Time: 3.1h | Mode: volume | FUTURES
+[2025-07-13 17:31:29] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:31:29] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2336 | P&L: $0.03 (+0.14% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:31:44] [INFO] 🔍 Quantum scan #4 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:31:46] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.71 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:31:51] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3097 | Mode: QUALITY
+[2025-07-13 17:31:51] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:31:51] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:31:51] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2336 | P&L: $0.02 (+0.12% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:32:14] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:32:14] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2335 | P&L: $0.02 (+0.11% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:32:29] [INFO] 🔍 Quantum scan #5 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:32:31] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.60 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:32:36] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3089 | Mode: QUALITY
+[2025-07-13 17:32:36] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:32:36] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:32:36] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2332 | P&L: $-0.00 (-0.02% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:32:59] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:32:59] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2336 | P&L: $0.03 (+0.15% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:33:14] [INFO] 🔍 Quantum scan #6 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:33:16] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.51 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:33:21] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3082 | Mode: QUALITY
+[2025-07-13 17:33:21] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:33:21] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:33:21] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2334 | P&L: $0.01 (+0.07% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:33:44] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:33:44] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2336 | P&L: $0.03 (+0.15% @1x) | Time: 3.2h | Mode: volume | FUTURES
+[2025-07-13 17:33:59] [INFO] 🔍 Quantum scan #7 - Analyzing 11 strike zones in QUALITY mode...
+[2025-07-13 17:34:01] [INFO] 🎯 Strike detected: SANDUSDT | Filter: ZSCORE | Z-Score: 1.57 (threshold: 0.6) | Mode: QUALITY | Action: SHORT
+[2025-07-13 17:34:06] [TRADE] 🎯 Executing SHORT strike on SANDUSDT | Entry: $0.3087 | Mode: QUALITY
+[2025-07-13 17:34:06] [ERROR] ❌ Order failed for SANDUSDT
+[2025-07-13 17:34:06] [INFO] ⚡ Monitoring 1 quantum positions in QUALITY mode...
+[2025-07-13 17:34:06] [INFO] 📊 POLUSDT | LONG | Entry: $0.2333 | Current: $0.2337 | P&L: $0.04 (+0.20% @1x) | Time: 3.2h | Mode: volume | FUTURES
